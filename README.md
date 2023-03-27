@@ -15,4 +15,4 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 Made with [contributors-img](https://contrib.rocks).
 
-## Happy Coding Fellas!
+## Happy Coding Folks!
